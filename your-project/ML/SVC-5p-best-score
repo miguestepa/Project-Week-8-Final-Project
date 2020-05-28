@@ -1,0 +1,21 @@
+# Tuning hyper-parameters for recall
+Best parameters set found on development set:
+
+{'C': 1000, 'kernel': 'linear'}
+
+Grid scores on development set:
+
+Detailed classification report:
+
+              precision    recall  f1-score   support
+
+           1       0.79      0.80      0.80      2446
+           2       0.54      0.52      0.53      2865
+           3       0.50      0.72      0.59      4473
+           4       0.44      0.23      0.30      2993
+           5       0.63      0.40      0.49      1223
+
+    accuracy                           0.56     14000
+   macro avg       0.58      0.53      0.54     14000
+weighted avg       0.56      0.56      0.54     14000
+

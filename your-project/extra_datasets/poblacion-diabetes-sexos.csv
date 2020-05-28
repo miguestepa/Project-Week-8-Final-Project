@@ -1,0 +1,33 @@
+"Año";"Periodo";"Varones";"Mujeres"
+"1993";"Año";"3,16";"4,97"
+"1995";"Año";"3,96";"5,36"
+"1997";"Año";"4,07";"5,8"
+"2001";"Año";"5,23";"5,98"
+"2003";"Año";"5,62";"6,21"
+"2006";"Año";"6,22";"5,81"
+"2011";"Año";"7,14";"6,78"
+"2014";"Año";"7,25";"6,4"
+"2017";"Año";"8,52";"7,11"
+;;;
+;;;
+"Métrica":"Varones"
+"Fuente":"Ministerio de Sanidad"
+"Clasificación":""
+"Unidad":"%"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;
+;;;
+"Métrica":"Mujeres"
+"Fuente":"Ministerio de Sanidad"
+"Clasificación":""
+"Unidad":"%"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;
+;;;
+"Url":"https://www.epdata.es/evolucion-poblacion-diabetes-espana-sexos/cc6736e1-435f-4499-b6d0-a4a7c3320bc2"
+"Titulo":"Evolución de la población con diabetes en España por sexos"
+"Subtitulo":""

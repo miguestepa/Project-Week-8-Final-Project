@@ -1,0 +1,24 @@
+"Año";"Periodo";"Población con diabetes (%)"
+"1993";"Año";"4,09"
+"1995";"Año";"4,69"
+"1997";"Año";"4,96"
+"2001";"Año";"5,62"
+"2003";"Año";"5,92"
+"2006";"Año";"6,01"
+"2011";"Año";"6,96"
+"2014";"Año";"6,82"
+"2017";"Año";"7,8"
+;;
+;;
+"Métrica":"Población con diabetes (%)"
+"Fuente":"Ministerio de Sanidad"
+"Clasificación":""
+"Unidad":"%"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;
+;;
+"Url":"https://www.epdata.es/porcentaje-poblacion-mayor-quince-anos-diabetes-espana/4a31e195-50a7-4470-94ef-a85e6adc481b"
+"Titulo":"Evolución de la población con diabetes en España"
+"Subtitulo":""

@@ -1,0 +1,78 @@
+"Año";"Periodo";"15-24 años";"25-34 años";"35-44 años";"45-54 años";"55-64 años";"65-74 años";"75 y más años"
+"1993";"Año";"0,28";"0,51";"1,41";"3,48";"8,21";"13,28";"9,47"
+"1995";"Año";"0,08";"0,84";"1,72";"3,28";"9,58";"14,09";"13,16"
+"1997";"Año";"0,33";"0,33";"1,57";"4,39";"10,49";"14,59";"13,74"
+"2001";"Año";"0,56";"0,63";"1,29";"5,23";"9,94";"15,46";"17,18"
+"2003";"Año";"0,52";"0,79";"1,17";"4,19";"10,99";"16,74";"19,25"
+"2006";"Año";"0,34";"0,97";"1,22";"4,58";"11,04";"16,89";"18,38"
+"2011";"Año";"0,25";"0,71";"1,76";"5,03";"12,67";"17,53";"20,91"
+"2014";"Año";"0,57";"0,95";"1,32";"5,08";"10,4";"17,75";"20,05"
+"2017";"Año";"0,05";"0,68";"1,59";"3,94";"11,12";"21,29";"24,49"
+;;;;;;;;
+;;;;;;;;
+"Métrica":"15-24 años"
+"Fuente":"Ministerio de Sanidad"
+"Clasificación":""
+"Unidad":"%"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;;;;;;
+;;;;;;;;
+"Métrica":"25-34 años"
+"Fuente":"Ministerio de Sanidad"
+"Clasificación":""
+"Unidad":"%"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;;;;;;
+;;;;;;;;
+"Métrica":"35-44 años"
+"Fuente":"Ministerio de Sanidad"
+"Clasificación":""
+"Unidad":"%"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;;;;;;
+;;;;;;;;
+"Métrica":"45-54 años"
+"Fuente":"Ministerio de Sanidad"
+"Clasificación":""
+"Unidad":"%"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;;;;;;
+;;;;;;;;
+"Métrica":"55-64 años"
+"Fuente":"Ministerio de Sanidad"
+"Clasificación":""
+"Unidad":"%"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;;;;;;
+;;;;;;;;
+"Métrica":"65-74 años"
+"Fuente":"Ministerio de Sanidad"
+"Clasificación":""
+"Unidad":"%"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;;;;;;
+;;;;;;;;
+"Métrica":"75 y más años"
+"Fuente":"Ministerio de Sanidad"
+"Clasificación":""
+"Unidad":"%"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;;;;;;
+;;;;;;;;
+"Url":"https://www.epdata.es/evolucion-poblacion-diabetes-grupos-edad/eefbdf3e-8268-46a9-9712-babb6d8c48b7"
+"Titulo":"Evolución de la  población con diabetes por grupos de edad"
+"Subtitulo":""

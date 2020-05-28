@@ -1,0 +1,1351 @@
+[{"Nombre":"AMBOS SEXOS, Total, Total", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"Total", "Codigo":"total"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"AMBOS SEXOS, Total, Fumador diario", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"Total", "Codigo":"total"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador diario", "Codigo":"fumadordiario"}
+]
+, "Data":[{"Valor":23.95}
+]
+}
+,{"Nombre":"AMBOS SEXOS, Total, Fumador ocasional", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"Total", "Codigo":"total"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador ocasional", "Codigo":"fumadorocasional"}
+]
+, "Data":[{"Valor":3.01}
+]
+}
+,{"Nombre":"AMBOS SEXOS, Total, Exfumador", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"Total", "Codigo":"total"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Exfumador", "Codigo":"exfumador"}
+]
+, "Data":[{"Valor":19.58}
+]
+}
+,{"Nombre":"AMBOS SEXOS, Total, Nunca ha fumado", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"Total", "Codigo":"total"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Nunca ha fumado", "Codigo":"nuncahafumado"}
+]
+, "Data":[{"Valor":53.46}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 15 a 24 años, Total", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 15 a 24 años", "Codigo":"de15a24anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 15 a 24 años, Fumador diario", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 15 a 24 años", "Codigo":"de15a24anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador diario", "Codigo":"fumadordiario"}
+]
+, "Data":[{"Valor":21.73}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 15 a 24 años, Fumador ocasional", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 15 a 24 años", "Codigo":"de15a24anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador ocasional", "Codigo":"fumadorocasional"}
+]
+, "Data":[{"Valor":4.67}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 15 a 24 años, Exfumador", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 15 a 24 años", "Codigo":"de15a24anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Exfumador", "Codigo":"exfumador"}
+]
+, "Data":[{"Valor":3.71}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 15 a 24 años, Nunca ha fumado", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 15 a 24 años", "Codigo":"de15a24anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Nunca ha fumado", "Codigo":"nuncahafumado"}
+]
+, "Data":[{"Valor":69.89}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 25 a 34 años, Total", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 25 a 34 años", "Codigo":"de25a34anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 25 a 34 años, Fumador diario", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 25 a 34 años", "Codigo":"de25a34anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador diario", "Codigo":"fumadordiario"}
+]
+, "Data":[{"Valor":32.03}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 25 a 34 años, Fumador ocasional", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 25 a 34 años", "Codigo":"de25a34anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador ocasional", "Codigo":"fumadorocasional"}
+]
+, "Data":[{"Valor":4.28}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 25 a 34 años, Exfumador", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 25 a 34 años", "Codigo":"de25a34anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Exfumador", "Codigo":"exfumador"}
+]
+, "Data":[{"Valor":13.1}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 25 a 34 años, Nunca ha fumado", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 25 a 34 años", "Codigo":"de25a34anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Nunca ha fumado", "Codigo":"nuncahafumado"}
+]
+, "Data":[{"Valor":50.59}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 35 a 44 años, Total", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 35 a 44 años", "Codigo":"de35a44anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 35 a 44 años, Fumador diario", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 35 a 44 años", "Codigo":"de35a44anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador diario", "Codigo":"fumadordiario"}
+]
+, "Data":[{"Valor":30.59}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 35 a 44 años, Fumador ocasional", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 35 a 44 años", "Codigo":"de35a44anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador ocasional", "Codigo":"fumadorocasional"}
+]
+, "Data":[{"Valor":2.99}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 35 a 44 años, Exfumador", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 35 a 44 años", "Codigo":"de35a44anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Exfumador", "Codigo":"exfumador"}
+]
+, "Data":[{"Valor":17.81}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 35 a 44 años, Nunca ha fumado", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 35 a 44 años", "Codigo":"de35a44anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Nunca ha fumado", "Codigo":"nuncahafumado"}
+]
+, "Data":[{"Valor":48.62}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 45 a 54 años, Total", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 45 a 54 años", "Codigo":"de45a54anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 45 a 54 años, Fumador diario", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 45 a 54 años", "Codigo":"de45a54anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador diario", "Codigo":"fumadordiario"}
+]
+, "Data":[{"Valor":32.15}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 45 a 54 años, Fumador ocasional", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 45 a 54 años", "Codigo":"de45a54anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador ocasional", "Codigo":"fumadorocasional"}
+]
+, "Data":[{"Valor":3.42}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 45 a 54 años, Exfumador", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 45 a 54 años", "Codigo":"de45a54anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Exfumador", "Codigo":"exfumador"}
+]
+, "Data":[{"Valor":26.34}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 45 a 54 años, Nunca ha fumado", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 45 a 54 años", "Codigo":"de45a54anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Nunca ha fumado", "Codigo":"nuncahafumado"}
+]
+, "Data":[{"Valor":38.09}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 55 a 64 años, Total", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 55 a 64 años", "Codigo":"de55a64anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 55 a 64 años, Fumador diario", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 55 a 64 años", "Codigo":"de55a64anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador diario", "Codigo":"fumadordiario"}
+]
+, "Data":[{"Valor":20.64}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 55 a 64 años, Fumador ocasional", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 55 a 64 años", "Codigo":"de55a64anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador ocasional", "Codigo":"fumadorocasional"}
+]
+, "Data":[{"Valor":2.64}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 55 a 64 años, Exfumador", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 55 a 64 años", "Codigo":"de55a64anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Exfumador", "Codigo":"exfumador"}
+]
+, "Data":[{"Valor":28.22}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 55 a 64 años, Nunca ha fumado", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 55 a 64 años", "Codigo":"de55a64anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Nunca ha fumado", "Codigo":"nuncahafumado"}
+]
+, "Data":[{"Valor":48.5}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 65 a 74 años, Total", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 65 a 74 años", "Codigo":"de65a74anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 65 a 74 años, Fumador diario", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 65 a 74 años", "Codigo":"de65a74anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador diario", "Codigo":"fumadordiario"}
+]
+, "Data":[{"Valor":9.96}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 65 a 74 años, Fumador ocasional", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 65 a 74 años", "Codigo":"de65a74anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador ocasional", "Codigo":"fumadorocasional"}
+]
+, "Data":[{"Valor":1.1}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 65 a 74 años, Exfumador", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 65 a 74 años", "Codigo":"de65a74anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Exfumador", "Codigo":"exfumador"}
+]
+, "Data":[{"Valor":27.67}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 65 a 74 años, Nunca ha fumado", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 65 a 74 años", "Codigo":"de65a74anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Nunca ha fumado", "Codigo":"nuncahafumado"}
+]
+, "Data":[{"Valor":61.27}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 75 a 84 años, Total", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 75 a 84 años", "Codigo":"de75a84anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 75 a 84 años, Fumador diario", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 75 a 84 años", "Codigo":"de75a84anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador diario", "Codigo":"fumadordiario"}
+]
+, "Data":[{"Valor":4.15}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 75 a 84 años, Fumador ocasional", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 75 a 84 años", "Codigo":"de75a84anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador ocasional", "Codigo":"fumadorocasional"}
+]
+, "Data":[{"Valor":0.55}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 75 a 84 años, Exfumador", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 75 a 84 años", "Codigo":"de75a84anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Exfumador", "Codigo":"exfumador"}
+]
+, "Data":[{"Valor":22.14}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 75 a 84 años, Nunca ha fumado", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 75 a 84 años", "Codigo":"de75a84anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Nunca ha fumado", "Codigo":"nuncahafumado"}
+]
+, "Data":[{"Valor":73.16}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 85 y más años, Total", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 85 y más años", "Codigo":"de85ymasanos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 85 y más años, Fumador diario", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 85 y más años", "Codigo":"de85ymasanos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador diario", "Codigo":"fumadordiario"}
+]
+, "Data":[{"Valor":1.84}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 85 y más años, Fumador ocasional", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 85 y más años", "Codigo":"de85ymasanos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador ocasional", "Codigo":"fumadorocasional"}
+]
+, "Data":[{"Valor":1.16}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 85 y más años, Exfumador", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 85 y más años", "Codigo":"de85ymasanos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Exfumador", "Codigo":"exfumador"}
+]
+, "Data":[{"Valor":19.08}
+]
+}
+,{"Nombre":"AMBOS SEXOS, De 85 y más años, Nunca ha fumado", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"AMBOS SEXOS", "Codigo":"ambossexos"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 85 y más años", "Codigo":"de85ymasanos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Nunca ha fumado", "Codigo":"nuncahafumado"}
+]
+, "Data":[{"Valor":77.92}
+]
+}
+,{"Nombre":"HOMBRES, Total, Total", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"Total", "Codigo":"total"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"HOMBRES, Total, Fumador diario", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"Total", "Codigo":"total"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador diario", "Codigo":"fumadordiario"}
+]
+, "Data":[{"Valor":27.87}
+]
+}
+,{"Nombre":"HOMBRES, Total, Fumador ocasional", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"Total", "Codigo":"total"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador ocasional", "Codigo":"fumadorocasional"}
+]
+, "Data":[{"Valor":3.5}
+]
+}
+,{"Nombre":"HOMBRES, Total, Exfumador", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"Total", "Codigo":"total"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Exfumador", "Codigo":"exfumador"}
+]
+, "Data":[{"Valor":26.77}
+]
+}
+,{"Nombre":"HOMBRES, Total, Nunca ha fumado", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"Total", "Codigo":"total"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Nunca ha fumado", "Codigo":"nuncahafumado"}
+]
+, "Data":[{"Valor":41.86}
+]
+}
+,{"Nombre":"HOMBRES, De 15 a 24 años, Total", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 15 a 24 años", "Codigo":"de15a24anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"HOMBRES, De 15 a 24 años, Fumador diario", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 15 a 24 años", "Codigo":"de15a24anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador diario", "Codigo":"fumadordiario"}
+]
+, "Data":[{"Valor":22.48}
+]
+}
+,{"Nombre":"HOMBRES, De 15 a 24 años, Fumador ocasional", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 15 a 24 años", "Codigo":"de15a24anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador ocasional", "Codigo":"fumadorocasional"}
+]
+, "Data":[{"Valor":5.35}
+]
+}
+,{"Nombre":"HOMBRES, De 15 a 24 años, Exfumador", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 15 a 24 años", "Codigo":"de15a24anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Exfumador", "Codigo":"exfumador"}
+]
+, "Data":[{"Valor":3.21}
+]
+}
+,{"Nombre":"HOMBRES, De 15 a 24 años, Nunca ha fumado", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 15 a 24 años", "Codigo":"de15a24anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Nunca ha fumado", "Codigo":"nuncahafumado"}
+]
+, "Data":[{"Valor":68.96}
+]
+}
+,{"Nombre":"HOMBRES, De 25 a 34 años, Total", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 25 a 34 años", "Codigo":"de25a34anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"HOMBRES, De 25 a 34 años, Fumador diario", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 25 a 34 años", "Codigo":"de25a34anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador diario", "Codigo":"fumadordiario"}
+]
+, "Data":[{"Valor":35.68}
+]
+}
+,{"Nombre":"HOMBRES, De 25 a 34 años, Fumador ocasional", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 25 a 34 años", "Codigo":"de25a34anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador ocasional", "Codigo":"fumadorocasional"}
+]
+, "Data":[{"Valor":5.2}
+]
+}
+,{"Nombre":"HOMBRES, De 25 a 34 años, Exfumador", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 25 a 34 años", "Codigo":"de25a34anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Exfumador", "Codigo":"exfumador"}
+]
+, "Data":[{"Valor":13.08}
+]
+}
+,{"Nombre":"HOMBRES, De 25 a 34 años, Nunca ha fumado", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 25 a 34 años", "Codigo":"de25a34anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Nunca ha fumado", "Codigo":"nuncahafumado"}
+]
+, "Data":[{"Valor":46.04}
+]
+}
+,{"Nombre":"HOMBRES, De 35 a 44 años, Total", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 35 a 44 años", "Codigo":"de35a44anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"HOMBRES, De 35 a 44 años, Fumador diario", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 35 a 44 años", "Codigo":"de35a44anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador diario", "Codigo":"fumadordiario"}
+]
+, "Data":[{"Valor":32.83}
+]
+}
+,{"Nombre":"HOMBRES, De 35 a 44 años, Fumador ocasional", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 35 a 44 años", "Codigo":"de35a44anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador ocasional", "Codigo":"fumadorocasional"}
+]
+, "Data":[{"Valor":2.95}
+]
+}
+,{"Nombre":"HOMBRES, De 35 a 44 años, Exfumador", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 35 a 44 años", "Codigo":"de35a44anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Exfumador", "Codigo":"exfumador"}
+]
+, "Data":[{"Valor":19.59}
+]
+}
+,{"Nombre":"HOMBRES, De 35 a 44 años, Nunca ha fumado", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 35 a 44 años", "Codigo":"de35a44anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Nunca ha fumado", "Codigo":"nuncahafumado"}
+]
+, "Data":[{"Valor":44.63}
+]
+}
+,{"Nombre":"HOMBRES, De 45 a 54 años, Total", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 45 a 54 años", "Codigo":"de45a54anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"HOMBRES, De 45 a 54 años, Fumador diario", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 45 a 54 años", "Codigo":"de45a54anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador diario", "Codigo":"fumadordiario"}
+]
+, "Data":[{"Valor":34.34}
+]
+}
+,{"Nombre":"HOMBRES, De 45 a 54 años, Fumador ocasional", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 45 a 54 años", "Codigo":"de45a54anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador ocasional", "Codigo":"fumadorocasional"}
+]
+, "Data":[{"Valor":3.68}
+]
+}
+,{"Nombre":"HOMBRES, De 45 a 54 años, Exfumador", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 45 a 54 años", "Codigo":"de45a54anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Exfumador", "Codigo":"exfumador"}
+]
+, "Data":[{"Valor":31.44}
+]
+}
+,{"Nombre":"HOMBRES, De 45 a 54 años, Nunca ha fumado", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 45 a 54 años", "Codigo":"de45a54anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Nunca ha fumado", "Codigo":"nuncahafumado"}
+]
+, "Data":[{"Valor":30.54}
+]
+}
+,{"Nombre":"HOMBRES, De 55 a 64 años, Total", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 55 a 64 años", "Codigo":"de55a64anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"HOMBRES, De 55 a 64 años, Fumador diario", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 55 a 64 años", "Codigo":"de55a64anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador diario", "Codigo":"fumadordiario"}
+]
+, "Data":[{"Valor":26.26}
+]
+}
+,{"Nombre":"HOMBRES, De 55 a 64 años, Fumador ocasional", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 55 a 64 años", "Codigo":"de55a64anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador ocasional", "Codigo":"fumadorocasional"}
+]
+, "Data":[{"Valor":2.58}
+]
+}
+,{"Nombre":"HOMBRES, De 55 a 64 años, Exfumador", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 55 a 64 años", "Codigo":"de55a64anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Exfumador", "Codigo":"exfumador"}
+]
+, "Data":[{"Valor":40.57}
+]
+}
+,{"Nombre":"HOMBRES, De 55 a 64 años, Nunca ha fumado", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 55 a 64 años", "Codigo":"de55a64anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Nunca ha fumado", "Codigo":"nuncahafumado"}
+]
+, "Data":[{"Valor":30.59}
+]
+}
+,{"Nombre":"HOMBRES, De 65 a 74 años, Total", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 65 a 74 años", "Codigo":"de65a74anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"HOMBRES, De 65 a 74 años, Fumador diario", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 65 a 74 años", "Codigo":"de65a74anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador diario", "Codigo":"fumadordiario"}
+]
+, "Data":[{"Valor":16.16}
+]
+}
+,{"Nombre":"HOMBRES, De 65 a 74 años, Fumador ocasional", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 65 a 74 años", "Codigo":"de65a74anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador ocasional", "Codigo":"fumadorocasional"}
+]
+, "Data":[{"Valor":1.76}
+]
+}
+,{"Nombre":"HOMBRES, De 65 a 74 años, Exfumador", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 65 a 74 años", "Codigo":"de65a74anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Exfumador", "Codigo":"exfumador"}
+]
+, "Data":[{"Valor":50.26}
+]
+}
+,{"Nombre":"HOMBRES, De 65 a 74 años, Nunca ha fumado", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 65 a 74 años", "Codigo":"de65a74anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Nunca ha fumado", "Codigo":"nuncahafumado"}
+]
+, "Data":[{"Valor":31.82}
+]
+}
+,{"Nombre":"HOMBRES, De 75 a 84 años, Total", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 75 a 84 años", "Codigo":"de75a84anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"HOMBRES, De 75 a 84 años, Fumador diario", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 75 a 84 años", "Codigo":"de75a84anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador diario", "Codigo":"fumadordiario"}
+]
+, "Data":[{"Valor":8.91}
+]
+}
+,{"Nombre":"HOMBRES, De 75 a 84 años, Fumador ocasional", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 75 a 84 años", "Codigo":"de75a84anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador ocasional", "Codigo":"fumadorocasional"}
+]
+, "Data":[{"Valor":1.11}
+]
+}
+,{"Nombre":"HOMBRES, De 75 a 84 años, Exfumador", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 75 a 84 años", "Codigo":"de75a84anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Exfumador", "Codigo":"exfumador"}
+]
+, "Data":[{"Valor":49.52}
+]
+}
+,{"Nombre":"HOMBRES, De 75 a 84 años, Nunca ha fumado", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 75 a 84 años", "Codigo":"de75a84anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Nunca ha fumado", "Codigo":"nuncahafumado"}
+]
+, "Data":[{"Valor":40.46}
+]
+}
+,{"Nombre":"HOMBRES, De 85 y más años, Total", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 85 y más años", "Codigo":"de85ymasanos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"HOMBRES, De 85 y más años, Fumador diario", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 85 y más años", "Codigo":"de85ymasanos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador diario", "Codigo":"fumadordiario"}
+]
+, "Data":[{"Valor":4.35}
+]
+}
+,{"Nombre":"HOMBRES, De 85 y más años, Fumador ocasional", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 85 y más años", "Codigo":"de85ymasanos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador ocasional", "Codigo":"fumadorocasional"}
+]
+, "Data":[{"Valor":2.99}
+]
+}
+,{"Nombre":"HOMBRES, De 85 y más años, Exfumador", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 85 y más años", "Codigo":"de85ymasanos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Exfumador", "Codigo":"exfumador"}
+]
+, "Data":[{"Valor":53.42}
+]
+}
+,{"Nombre":"HOMBRES, De 85 y más años, Nunca ha fumado", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"HOMBRES", "Codigo":"hombres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 85 y más años", "Codigo":"de85ymasanos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Nunca ha fumado", "Codigo":"nuncahafumado"}
+]
+, "Data":[{"Valor":39.24}
+]
+}
+,{"Nombre":"MUJERES, Total, Total", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"Total", "Codigo":"total"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"MUJERES, Total, Fumador diario", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"Total", "Codigo":"total"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador diario", "Codigo":"fumadordiario"}
+]
+, "Data":[{"Valor":20.22}
+]
+}
+,{"Nombre":"MUJERES, Total, Fumador ocasional", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"Total", "Codigo":"total"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador ocasional", "Codigo":"fumadorocasional"}
+]
+, "Data":[{"Valor":2.55}
+]
+}
+,{"Nombre":"MUJERES, Total, Exfumador", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"Total", "Codigo":"total"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Exfumador", "Codigo":"exfumador"}
+]
+, "Data":[{"Valor":12.73}
+]
+}
+,{"Nombre":"MUJERES, Total, Nunca ha fumado", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"Total", "Codigo":"total"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Nunca ha fumado", "Codigo":"nuncahafumado"}
+]
+, "Data":[{"Valor":64.5}
+]
+}
+,{"Nombre":"MUJERES, De 15 a 24 años, Total", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 15 a 24 años", "Codigo":"de15a24anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"MUJERES, De 15 a 24 años, Fumador diario", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 15 a 24 años", "Codigo":"de15a24anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador diario", "Codigo":"fumadordiario"}
+]
+, "Data":[{"Valor":20.95}
+]
+}
+,{"Nombre":"MUJERES, De 15 a 24 años, Fumador ocasional", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 15 a 24 años", "Codigo":"de15a24anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador ocasional", "Codigo":"fumadorocasional"}
+]
+, "Data":[{"Valor":3.96}
+]
+}
+,{"Nombre":"MUJERES, De 15 a 24 años, Exfumador", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 15 a 24 años", "Codigo":"de15a24anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Exfumador", "Codigo":"exfumador"}
+]
+, "Data":[{"Valor":4.23}
+]
+}
+,{"Nombre":"MUJERES, De 15 a 24 años, Nunca ha fumado", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 15 a 24 años", "Codigo":"de15a24anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Nunca ha fumado", "Codigo":"nuncahafumado"}
+]
+, "Data":[{"Valor":70.86}
+]
+}
+,{"Nombre":"MUJERES, De 25 a 34 años, Total", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 25 a 34 años", "Codigo":"de25a34anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"MUJERES, De 25 a 34 años, Fumador diario", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 25 a 34 años", "Codigo":"de25a34anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador diario", "Codigo":"fumadordiario"}
+]
+, "Data":[{"Valor":28.26}
+]
+}
+,{"Nombre":"MUJERES, De 25 a 34 años, Fumador ocasional", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 25 a 34 años", "Codigo":"de25a34anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador ocasional", "Codigo":"fumadorocasional"}
+]
+, "Data":[{"Valor":3.34}
+]
+}
+,{"Nombre":"MUJERES, De 25 a 34 años, Exfumador", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 25 a 34 años", "Codigo":"de25a34anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Exfumador", "Codigo":"exfumador"}
+]
+, "Data":[{"Valor":13.12}
+]
+}
+,{"Nombre":"MUJERES, De 25 a 34 años, Nunca ha fumado", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 25 a 34 años", "Codigo":"de25a34anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Nunca ha fumado", "Codigo":"nuncahafumado"}
+]
+, "Data":[{"Valor":55.28}
+]
+}
+,{"Nombre":"MUJERES, De 35 a 44 años, Total", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 35 a 44 años", "Codigo":"de35a44anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"MUJERES, De 35 a 44 años, Fumador diario", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 35 a 44 años", "Codigo":"de35a44anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador diario", "Codigo":"fumadordiario"}
+]
+, "Data":[{"Valor":28.25}
+]
+}
+,{"Nombre":"MUJERES, De 35 a 44 años, Fumador ocasional", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 35 a 44 años", "Codigo":"de35a44anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador ocasional", "Codigo":"fumadorocasional"}
+]
+, "Data":[{"Valor":3.02}
+]
+}
+,{"Nombre":"MUJERES, De 35 a 44 años, Exfumador", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 35 a 44 años", "Codigo":"de35a44anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Exfumador", "Codigo":"exfumador"}
+]
+, "Data":[{"Valor":15.95}
+]
+}
+,{"Nombre":"MUJERES, De 35 a 44 años, Nunca ha fumado", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 35 a 44 años", "Codigo":"de35a44anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Nunca ha fumado", "Codigo":"nuncahafumado"}
+]
+, "Data":[{"Valor":52.78}
+]
+}
+,{"Nombre":"MUJERES, De 45 a 54 años, Total", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 45 a 54 años", "Codigo":"de45a54anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"MUJERES, De 45 a 54 años, Fumador diario", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 45 a 54 años", "Codigo":"de45a54anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador diario", "Codigo":"fumadordiario"}
+]
+, "Data":[{"Valor":29.97}
+]
+}
+,{"Nombre":"MUJERES, De 45 a 54 años, Fumador ocasional", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 45 a 54 años", "Codigo":"de45a54anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador ocasional", "Codigo":"fumadorocasional"}
+]
+, "Data":[{"Valor":3.16}
+]
+}
+,{"Nombre":"MUJERES, De 45 a 54 años, Exfumador", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 45 a 54 años", "Codigo":"de45a54anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Exfumador", "Codigo":"exfumador"}
+]
+, "Data":[{"Valor":21.3}
+]
+}
+,{"Nombre":"MUJERES, De 45 a 54 años, Nunca ha fumado", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 45 a 54 años", "Codigo":"de45a54anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Nunca ha fumado", "Codigo":"nuncahafumado"}
+]
+, "Data":[{"Valor":45.57}
+]
+}
+,{"Nombre":"MUJERES, De 55 a 64 años, Total", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 55 a 64 años", "Codigo":"de55a64anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"MUJERES, De 55 a 64 años, Fumador diario", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 55 a 64 años", "Codigo":"de55a64anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador diario", "Codigo":"fumadordiario"}
+]
+, "Data":[{"Valor":15.35}
+]
+}
+,{"Nombre":"MUJERES, De 55 a 64 años, Fumador ocasional", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 55 a 64 años", "Codigo":"de55a64anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador ocasional", "Codigo":"fumadorocasional"}
+]
+, "Data":[{"Valor":2.69}
+]
+}
+,{"Nombre":"MUJERES, De 55 a 64 años, Exfumador", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 55 a 64 años", "Codigo":"de55a64anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Exfumador", "Codigo":"exfumador"}
+]
+, "Data":[{"Valor":16.59}
+]
+}
+,{"Nombre":"MUJERES, De 55 a 64 años, Nunca ha fumado", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 55 a 64 años", "Codigo":"de55a64anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Nunca ha fumado", "Codigo":"nuncahafumado"}
+]
+, "Data":[{"Valor":65.36}
+]
+}
+,{"Nombre":"MUJERES, De 65 a 74 años, Total", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 65 a 74 años", "Codigo":"de65a74anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"MUJERES, De 65 a 74 años, Fumador diario", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 65 a 74 años", "Codigo":"de65a74anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador diario", "Codigo":"fumadordiario"}
+]
+, "Data":[{"Valor":4.58}
+]
+}
+,{"Nombre":"MUJERES, De 65 a 74 años, Fumador ocasional", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 65 a 74 años", "Codigo":"de65a74anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador ocasional", "Codigo":"fumadorocasional"}
+]
+, "Data":[{"Valor":0.52}
+]
+}
+,{"Nombre":"MUJERES, De 65 a 74 años, Exfumador", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 65 a 74 años", "Codigo":"de65a74anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Exfumador", "Codigo":"exfumador"}
+]
+, "Data":[{"Valor":8.06}
+]
+}
+,{"Nombre":"MUJERES, De 65 a 74 años, Nunca ha fumado", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 65 a 74 años", "Codigo":"de65a74anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Nunca ha fumado", "Codigo":"nuncahafumado"}
+]
+, "Data":[{"Valor":86.84}
+]
+}
+,{"Nombre":"MUJERES, De 75 a 84 años, Total", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 75 a 84 años", "Codigo":"de75a84anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"MUJERES, De 75 a 84 años, Fumador diario", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 75 a 84 años", "Codigo":"de75a84anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador diario", "Codigo":"fumadordiario"}
+]
+, "Data":[{"Valor":0.86}
+]
+}
+,{"Nombre":"MUJERES, De 75 a 84 años, Fumador ocasional", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 75 a 84 años", "Codigo":"de75a84anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador ocasional", "Codigo":"fumadorocasional"}
+]
+, "Data":[{"Valor":0.16}
+]
+}
+,{"Nombre":"MUJERES, De 75 a 84 años, Exfumador", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 75 a 84 años", "Codigo":"de75a84anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Exfumador", "Codigo":"exfumador"}
+]
+, "Data":[{"Valor":3.17}
+]
+}
+,{"Nombre":"MUJERES, De 75 a 84 años, Nunca ha fumado", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 75 a 84 años", "Codigo":"de75a84anos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Nunca ha fumado", "Codigo":"nuncahafumado"}
+]
+, "Data":[{"Valor":95.81}
+]
+}
+,{"Nombre":"MUJERES, De 85 y más años, Total", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 85 y más años", "Codigo":"de85ymasanos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"MUJERES, De 85 y más años, Fumador diario", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 85 y más años", "Codigo":"de85ymasanos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador diario", "Codigo":"fumadordiario"}
+]
+, "Data":[{"Valor":0.5}
+]
+}
+,{"Nombre":"MUJERES, De 85 y más años, Fumador ocasional", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 85 y más años", "Codigo":"de85ymasanos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Fumador ocasional", "Codigo":"fumadorocasional"}
+]
+, "Data":[{"Valor":0.18}
+]
+}
+,{"Nombre":"MUJERES, De 85 y más años, Exfumador", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 85 y más años", "Codigo":"de85ymasanos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Exfumador", "Codigo":"exfumador"}
+]
+, "Data":[{"Valor":0.73}
+]
+}
+,{"Nombre":"MUJERES, De 85 y más años, Nunca ha fumado", "MetaData":[{"Variable":{"Nombre":"sexo", "Codigo":"sexo"}
+, "Nombre":"MUJERES", "Codigo":"mujeres"}
+,{"Variable":{"Nombre":"edad", "Codigo":"edad"}
+, "Nombre":"De 85 y más años", "Codigo":"de85ymasanos"}
+,{"Variable":{"Nombre":"consumo de tabaco", "Codigo":"consumodetabaco"}
+, "Nombre":"Nunca ha fumado", "Codigo":"nuncahafumado"}
+]
+, "Data":[{"Valor":98.58}
+]
+}
+]

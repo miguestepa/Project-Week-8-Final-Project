@@ -1,0 +1,9 @@
+Best Hyper Parameters:
+ {'algorithm': 'brute', 'leaf_size': 1, 'n_jobs': -1, 'n_neighbors': 25, 'weights': 'uniform'}
+Accuracy: 0.5990714285714286
+Confusion Metrix:
+ [[2066  402   88   13    0]
+ [ 351 1733  843  181   25]
+ [  73  635 2691 1221  223]
+ [   1   91  698 1203  352]
+ [   2    4   85  325  694]]
