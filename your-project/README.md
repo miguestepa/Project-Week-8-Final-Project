@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Predicting Heart Diseases
+*[Miguel Estepa Polonio]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics, Barcelona, 2020]*
 
 ## Content
 - [Project Description](#project-description)
@@ -19,54 +19,41 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show.
+Heart diseases are the first cause of worldwide mortality. Could we predict them? Thanks to medical researches, data analysis, Machine Learning and Data Visualization we can offer an answer to this problem. 
 
 ## Hypotheses / Questions
-* What data/business/research/personal question you would like to answer?
-* What is the context for the question and the possible scientific or business application?
-* What are the hypotheses you would like to test in order to answer your question?  
-Frame your hypothesis with statistical/data languages (i.e. define Null and Alternative Hypothesis). You can use formulas if you want but that is not required.
+* Could we predict heart diseases?
+* How would affect different people (according to different ages, gender and habits)?
 
 ## Dataset
-* Where did you get your data? If you downloaded a dataset (either public or private), describe where you downloaded it and include the command to load the dataset.
-* Did you build your own datset? If so, did you use an API or a web scraper? PRovide the relevant scripts in your repo.
-* For all types of datasets, provide a description of the size, complexity, and data types included in your dataset, as well as a schema of the tables if necessary.
-* If the question cannot be answered with the available data, why not? What data would you need to answer it better?
+2 datasets will be used in this project:
+* A Cardiovascular disease dataset from Kaggle (https://www.kaggle.com/sulianova/cardiovascular-disease-dataset).
+* A model of the Spanish population created by myself with data from INE (https://www.ine.es/)
 
 ## Cleaning
-Describe your full process of data wrangling and cleaning. Document why you chose to fill missing values, extract outliers, or create the variables you did as well as your reasoning behind the process.
+Both dataset were clean in terms of strange numbers or NaNs. Also, during the process, in the cardiovascular dataset, some columns were deleted to study just the more demographic features.
 
 ## Analysis
-* Overview the general steps you went through to analyze your data in order to test your hypothesis.
-* Document each step of your data exploration and analysis.
-* Include charts to demonstrate the effect of your work.
-* If you used Machine Learning in your final project, describe your feature selection process.
+* Wait for the presentation.
 
 ## Model Training and Evaluation
-*Include this section only if you chose to include ML in your project.*
-* Describe how you trained your model, the results you obtained, and how you evaluated those results.
+* Several experiments with different models were made. At the end the selected option was KNN.
+* The model has the best parameters according to an hyperparameters tunning and the evaluation of different random seeds of populations.
 
 ## Conclusion
-* Summarize your results. What do they mean?
-* What can you say about your hypotheses?
-* Interpret your findings in terms of the questions you try to answer.
+* Wait for the presentation.
 
 ## Future Work
-Address any questions you were unable to answer, or any next steps or future extensions to your project.
+This project does not ends here. It is just a beginning. The next goal in the process is to study of the regions in Spain, to analyze the differences in the heart diseases probabilities and report to the institutions where changes should be done.
 
 ## Workflow
-Outline the workflow you used in your project. What were the steps?
-How did you test the accuracy of your analysis and/or machine learning algorithm?
+* Wait for the presentation.
 
 ## Organization
-How did you organize your work? Did you use any tools like a trello or kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+The organization was structured using trello. A strong focus in the brainstorming part and the design of the project was done before anything.
 
 ## Links
-Include links to your repository, slides and trello/kanban board. Feel free to include any other links associated with your project.
 
-
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/miguestepa/Project-Week-8-Final-Project/tree/master/your-project)  
+[Slides](https://docs.google.com/presentation/d/19VuJ9FRu-cTz8F82nJQ2Jt5vCWx25zSBSqAJv6fYaAE/edit?usp=sharing)  
+[Trello](https://trello.com/b/j1OJyntI/ironhack-project-5)  
