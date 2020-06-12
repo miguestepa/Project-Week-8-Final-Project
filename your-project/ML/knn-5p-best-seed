@@ -1,0 +1,12 @@
+Best Seed Parameters:
+ 158
+Accuracy: 0.6114285714285714
+Best Seed Parameters:
+ 158
+Accuracy: 0.6114285714285714
+Confusion Metrix:
+ [[2070  387   82   18    0]
+ [ 363 1830  887  234   28]
+ [  49  530 2777 1246  208]
+ [   1   69  609 1208  325]
+ [   2    4   89  309  675]]
