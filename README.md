@@ -34,20 +34,20 @@ Heart diseases are the first cause of worldwide mortality. Could we predict them
 Both dataset were clean in terms of strange numbers or NaNs. Also, during the process, in the cardiovascular dataset, some columns were deleted to study just the more demographic features.
 
 ## Analysis
-* Wait for the presentation.
+* Watch the Presentation for all the different analysis.
 
 ## Model Training and Evaluation
 * Several experiments with different models were made. At the end the selected option was KNN.
 * The model has the best parameters according to an hyperparameters tunning and the evaluation of different random seeds of populations.
 
 ## Conclusion
-* Wait for the presentation.
+* 40 years old is the critical age. At that age, the probability of suffering a heart disease increases dramatically.
+* Bad Habits Kill. Even when women have more natural probabilities, due to bad habits men die more.
+* The percentage of smoking and drinking alcohol in woman is increasing in younger generations.
+
 
 ## Future Work
 This project does not ends here. It is just a beginning. The next goal in the process is to study of the regions in Spain, to analyze the differences in the heart diseases probabilities and report to the institutions where changes should be done.
-
-## Workflow
-* Wait for the presentation.
 
 ## Organization
 The organization was structured using trello. A strong focus in the brainstorming part and the design of the project was done before anything.
